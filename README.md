@@ -18,4 +18,4 @@
 
 ## Key Insights for Presentation
 
-> In this investigation my main focus is on delay distributions, relationship between delays and cancellation distribution. I removed 85 columns from the and left only 25.
+> There are 3 main correlations that is Arrival Delay vs Depature Delay, Distance vs Air Time and Carrier Delay vs Departure Delay. Flight cancelations is only found in the year 2020, this is due to Covid19 pandemic.
